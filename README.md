@@ -68,6 +68,9 @@ User
    - Explore other platforms (iOS, web) and extend the application's reach.
    - Continuous optimization and enhancement.
 
+6. **Proposed Features**
+   - Dummy
+
 #### Additional Considerations:
 - Regular meetings to discuss progress, roadblocks, and plan future steps.
 - Implementation of secure backup and export features.
