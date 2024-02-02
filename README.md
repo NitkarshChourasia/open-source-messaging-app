@@ -26,6 +26,7 @@ User
 **Miscellaneous:**
 - Version Control: Git (GitHub)
 - License: MPL 2.0 (Mozilla Public License 2.0)
+- System Design: Draw.io
 
 #### Milestones:
 
