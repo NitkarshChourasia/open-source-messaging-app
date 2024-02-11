@@ -70,7 +70,7 @@ User
    - Continuous optimization and enhancement.
 
 6. **Proposed Features**
-   - Dummy
+   - Adding whiteboard kind of environment using WebRTC.
 
 #### Additional Considerations:
 - Regular meetings to discuss progress, roadblocks, and plan future steps.
