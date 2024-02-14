@@ -1,4 +1,7 @@
 # open-source-messaging-app
+# Developer Focused
+# Decentralised as much as it can be.
+Aim: To use as much as OPEN-SOURCE tech ONLY as possible.
 
 User
 ### Proposed Stack and Milestones
