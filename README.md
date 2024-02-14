@@ -35,7 +35,7 @@ User
    - User authentication with OTP and face authentication.
    - Basic profile setup with a profile picture.
    - Real-time messaging with end-to-end encryption.
-   - Basic media sharing (images and text).
+   - Basic media sharing (images and videos, documents).
    - Dark and light theme toggle.
    - Web and Android versions working.
 
